@@ -33,5 +33,5 @@ s.Sample()
 (**
 おわりに
 -------
-Good job, Thomas!
+Good job, Tomas!
 *)
